@@ -1,4 +1,4 @@
-### Hello there 👋, me chamo Lucas e sou um software development engineer!
+### Hello there 👋, my name is Lucas and I'm a Software Development Engineer!
 ##
 
 <div align="left">
